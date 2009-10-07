@@ -1,0 +1,1 @@
+../lib/ruby/1.8/i686-linux/intern.h
